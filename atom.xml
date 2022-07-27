@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhouzefu.github.io/blog/</id>
-    <title>周漠德博客</title>
-    <updated>2022-07-27T05:44:58.950Z</updated>
+    <title>@我是周漠</title>
+    <updated>2022-07-27T05:46:38.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhouzefu.github.io/blog/"/>
     <link rel="self" href="https://zhouzefu.github.io/blog/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>什么都不做，就不会犯错</subtitle>
     <logo>https://zhouzefu.github.io/blog/images/avatar.png</logo>
     <icon>https://zhouzefu.github.io/blog/favicon.ico</icon>
-    <rights>All rights reserved 2022, 周漠德博客</rights>
+    <rights>All rights reserved 2022, @我是周漠</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zhouzefu.github.io/blog/post/hello-gridea/</id>
